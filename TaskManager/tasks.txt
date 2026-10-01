@@ -1,0 +1,2 @@
+1|Clean my room|0
+2|Cook a dinner|1
