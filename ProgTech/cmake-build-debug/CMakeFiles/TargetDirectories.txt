@@ -1,0 +1,3 @@
+/cygdrive/d/programovanieSTUBA/ProgTech/cmake-build-debug/CMakeFiles/ProgTech.dir
+/cygdrive/d/programovanieSTUBA/ProgTech/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/programovanieSTUBA/ProgTech/cmake-build-debug/CMakeFiles/rebuild_cache.dir
